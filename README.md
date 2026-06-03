@@ -1,36 +1,24 @@
 # ✨leonld94 / Leonardo / Leon✨
 
-## 🔭 My Major is...
-- **Electronic Engineering** (IT Convergence)
-- **Philosophy** (Double Major)
+## 🔭 Academic & Engineering Spectrum
 
-## 🌱 Learning This Semester...
-**[Engineering, CS & Math]**
-- Microprocessor Application (마이크로프로세서응용)
-- Data Structure (자료구조)
-- Digital Electronics (디지털공학)
-- Probability and Random Processes (확률및랜덤프로세스)
+### 🎓 Degrees
+* **Electronic Engineering**, IT Convergence
+* **Philosophy**, Double Major
 
-**[Philosophy]**
-- Epistemology (인식론)
-- Philosophy of Science (과학철학)
-- Ancient Greek (고전 그리스어)
+### 🛠️ Core Engineering Skills (실무 역량)
+* **Languages & Tools**: C/C++ (OOP), Git, Markdown
+* **Core Foundations**: Data Structure, Linear Algebra
 
-## 💬 Want to Learn Further...
-**[Engineering, CS & Math]**
-- Algorithm (알고리즘)
-- Formal Languages and Automata (형식언어와오토마타)
-- Digital System Design (디지털시스템설계)
-- Abstract Algebra (현대대수학)
-- Set Theory (집합론)
-
-**[Philosophy]**
-- Ancient Greek Philosophy (서양고대철학)
-- Metaphysics (형이상학)
-- Philology (문헌학)
-- Syntax (통사론)
--  Mathematics Education (수학교육학)
-
+### 🧠 Core Interdisciplinary Interests (학문적 관심사)
+* **Hardware & Systems Architecture**
+  - Microprocessor Applications, Computer Architecture, Digital Electronics
+* **Mathematics & Theoretical Physics**
+  - Abstract Algebra, Set Theory, Mathematical Logic, Dynamics, Quantum Mechanics
+* **Linguistics**
+  - Formal Languages and Automata, Syntax (Linguistics), Ancient Greek, Ancient Greek Philology
+* **Philosophy**
+  - Analytic Philosophy, Epistemology, Philosophy of Science, Philosophy of Mathematics
 <!--
 **leonld94/leonld94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
